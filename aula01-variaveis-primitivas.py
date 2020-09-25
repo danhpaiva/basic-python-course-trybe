@@ -1,22 +1,21 @@
-nome = "Daniel Paiva"
-idade = 27
-altura = 1.71
-tutor = False
-aluno = True
-trabalhando = None
+# Knowing primitive variables
 
-print(nome)
-print(idade)
-print(altura)
-print(tutor)
-print(aluno)
-print(trabalhando)
+name = "Daniel Paiva"
+age = 27
+height = 1.71
+master = False
+student = True
+working = None
 
-nova_idade = idade + 30
-nome_cidade = nome + " Belo Horizonte"
+print(name)
+print(age)
+print(height)
+print(master)
+print(student)
+print(working)
 
-print(nova_idade)
-print(nome_cidade)
+new_age = age + 30
+name_city = name + " Belo Horizonte"
 
-altura_sem_tenis = altura - 0.05
-print(altura_sem_tenis)
+print(new_age)
+print(name_city)
