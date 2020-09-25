@@ -1,30 +1,32 @@
-# Lista
-lista_convidados = ["Ana", "João", "Paiva", "Agatha", "Maria"]
+# Built-Ins Variables
 
-print(lista_convidados)
+# List
+party_listt = ["Ana", "João", "Paiva", "Agatha", "Maria"]
 
-# Adicionando elemento na lista
-lista_convidados.append("Maurício")
+print(party_listt)
 
-print(lista_convidados)
+# Adding element to the list
+party_listt.append("Maurício")
 
-# Remover Elemento da Lista
-lista_convidados.remove("Ana")
+print(party_listt)
 
-print(lista_convidados)
+# Remove Element from List
+party_listt.remove("Ana")
 
-# Pegar primeiro elemento da lista
+print(party_listt)
 
-print(lista_convidados[0])
+# Get first list item
 
-# Pegar último elemento sem saber a posição
-print(lista_convidados[-1])
+print(party_listt[0])
 
-# Lista variada
+# Take last element without knowing the position
+print(party_listt[-1])
 
-lista_variada = ["Daniel", 27, 1.70]
+# List with different types of data
 
-print(lista_variada)
+varied_listt = ["Daniel", 27, 1.70]
+
+print()
 
 # Tupla
 tupla1 = (1, 2, 3)
@@ -34,13 +36,13 @@ print(tupla1)
 tupla3 = tupla1 + tupla2
 print(tupla3)
 
-# Dicionário - Mapeamento de Chave para valor
+# Dictionary - Key to Value Mapping
 
-dados_pessoais = {"nome": "Batman", "cidade": "Gothan"}
-print(dados_pessoais)
+personal_data = {"name": "Batman", "city": "Gothan"}
+print(personal_data)
 
-dados_pessoais["Veículo"] = "Batmovel"
-print(dados_pessoais)
+personal_data["Car"] = "Batmovel"
+print(personal_data)
 
-del dados_pessoais["cidade"]
-print(dados_pessoais)
+del personal_data["city"]
+print(personal_data)
