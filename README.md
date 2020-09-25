@@ -1,26 +1,26 @@
 # :smile: AceleraDev Python
 
-## Descrição
-Neste Curso Básico de Python, vamos aprender sobre os fundamentos, funções, variáveis e classes desta linguagem de programação!<br>
-Este conteúdo fazia parte originalmente do AceleraDev Python, desenvolvido pela Codenation em 2019 - ajudando mais de 600 PESSOAS em suas 8 EDIÇÕES no último ano.<br>
-Serão 12 videoaulas sobre os seguintes tópicos:
+## Description
+In this Basic Python Course, we will learn about the fundamentals, functions, variables and classes of this programming language! <br>
+This content was originally part of AceleraDev Python, developed by Codenation in 2019 - helping more than 600 PEOPLE in their 8 EDITIONS in the last year. <br>
+There will be 12 video classes on the following topics:
 
-## Fundamentos do Python
-- Aula 01: Introdução e Variáveis Primitivas
-- Aula 02: Variáveis Built-Ins 
-- Aula 03: Estruturas de Decisão 
-- Aula 04: Estruturas de Repetição 
-- Aula 05: Formata Strings 
-- Aula 06: Formatação pep8.py 
+## Python Basics
+- Lecture 01: Introduction and Primitive Variables
+- Class 02: Built-Ins Variables
+- Lecture 03: Decision Structures
+- Lecture 04: Repeating Structures
+- Lecture 05: Formats Strings
+- Lecture 06: Pep8.py formatting
 
-## Funções e Classes
-- Aula 07: Herança 
-- Aula 08: Composição 
-- Aula 09: Polimorfismo 
-- Aula 10: Métodos de Classe 
-- Aula 11: Métodos de Instância 
-- Aula 12: Métodos Estáticos
+## Functions and Classes
+- Lesson 07: Inheritance
+- Lecture 08: Composition
+- Lecture 09: Polymorphism
+- Class 10: Class Methods
+- Lecture 11: Instance Methods
+- Lecture 12: Static Methods
 
-## Ferramentas Utilizadas
+## Tools Used
 - Visual Studio Code
 - Python 3.8.5
