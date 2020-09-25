@@ -1,4 +1,4 @@
-# :smile: AceleraDev Python
+# :rocket: AceleraDev Python
 
 ## Description
 In this Basic Python Course, we will learn about the fundamentals, functions, variables and classes of this programming language! <br>
