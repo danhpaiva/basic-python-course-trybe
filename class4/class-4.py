@@ -16,12 +16,9 @@ for i in range(len(guests)):
 
 print()
 
-exit_ = True
 counter = 0
 
-while exit_:
+while counter < 5:
     counter += 1
-    if counter == 5:
-        exit_ = False
 
 print('Counter: ' + str(counter))
