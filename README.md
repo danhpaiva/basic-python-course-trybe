@@ -1,6 +1,6 @@
 # :rocket: AceleraDev Python
 
-## Description
+## :page_facing_up: Description
 In this Basic Python Course, we will learn about the fundamentals, functions, variables and classes of this programming language! <br>
 This content was originally part of AceleraDev Python, developed by Codenation in 2019 - helping more than 600 PEOPLE in their 8 EDITIONS in the last year. <br>
 There will be 12 video classes on the following topics:
@@ -21,6 +21,6 @@ There will be 12 video classes on the following topics:
 - Lecture 11: Instance Methods
 - Lecture 12: Static Methods
 
-## Tools Used
+## :toolbox: Tools Used
 - Visual Studio Code
 - Python 3.8.5
