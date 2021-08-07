@@ -1,5 +1,4 @@
 # :rocket: AceleraDev Python
-
 ## :page_facing_up: Description
 In this Basic Python Course, we will learn about the fundamentals, functions, variables and classes of this programming language! <br>
 This content was originally part of AceleraDev Python, developed by Codenation in 2019 - helping more than 600 PEOPLE in their 8 EDITIONS in the last year. <br>
